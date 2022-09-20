@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akylbek</h1>
-<h3 align="center">A passionate junior frontend developer from Kyrgyzstan</h3>
+<h3 align="center">A passionate frontend developer from Kyrgyzstan</h3>
 <img align="right" alt="Coding" width="400" src="https://sagaratechnology.com/blog/wp-content/uploads/2020/09/1_LEH5tUEQReWe8Iu-UEV3Pg.gif">
 
 - 🌱 I’m currently learning **C++,node.js(nestJs),**
