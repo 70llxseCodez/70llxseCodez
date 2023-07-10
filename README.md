@@ -2,8 +2,6 @@
 <h3 align="center">A passionate frontend developer from Kyrgyzstan</h3>
 <img align="right" alt="Coding" width="400" src="https://sagaratechnology.com/blog/wp-content/uploads/2020/09/1_LEH5tUEQReWe8Iu-UEV3Pg.gif">
 
-- 🌱 I’m currently learning node.js
-
 - 📫 How to reach me **akylbekrysbekov@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
