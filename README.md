@@ -1,5 +1,6 @@
 # 💫 About Me:
-![codewars](https://www.codewars.com/users/akyl05/badges/micro)<br>👨🏻‍💻 Front-end developer with 3 years experience<br>🦾 Desire to learn and learn new things<br> 😃 I enjoy developing user-friendly interfaces.
+![codewars](https://www.codewars.com/users/akyl05/badges/micro)<br>👨🏻‍💻 Front-end developer with 3 years experience<br>🦾 Desire to learn and learn new things<br> 😃 I enjoy developing user-friendly interfaces.<br>
+![codewars](https://www.codewars.com/users/akyl05/badges/micro)
 
 
 ## 🌐 Socials:
